@@ -56,7 +56,7 @@ Feel free to fork the repository and submit a pull request if you have suggestio
 
 ## License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see The [LICENSE.md](https://github.com/mubarak-mohamed/simon-game/blob/main/LICENSE) file for details.
 
 
 ### Instructions Summary:
