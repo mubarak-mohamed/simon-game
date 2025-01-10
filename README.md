@@ -3,7 +3,7 @@
 
 This is a simple implementation of the classic Simon Game using HTML5, CSS3, and JavaScript. The game challenges players to repeat a sequence of colors in the correct order. The game progresses as the sequence becomes longer.
 
-## Features
+## Features 
 
 - **Responsive Design:** The game is fully responsive and works on both desktop and mobile devices.
 - **Color Sequence:** A sequence of colors is shown to the player, who must then repeat the sequence.
@@ -63,7 +63,7 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE - see The [LICENSE
 - Clone the repository and run `index.html` to start the game.
 - The main files are:
 - `index.html` (HTML structure)
-- `style.css` (CSS for the game's look)
-- `script.js` (JavaScript for game functionality)
+- `src/css/style.css` (CSS for the game's look)
+- `src/js/script.js` (JavaScript for game functionality)
 
 Feel free to modify the game as needed! Let me know if you need help with code snippets for specific parts of the Simon Game!
