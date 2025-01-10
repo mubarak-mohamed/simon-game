@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .containeur {
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    flex-flow: row wrap;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+  
+  .block {
+    width: 50%;
+    height: 50vh;
+  }
+  
+  .green {
+    background: green;
+    filter: brightness(60%);
+  }
+  
+  .blue {
+    background: blue;
+    filter: brightness(60%);
+  }
+  
+  .red {
+    background: red;
+    filter: brightness(60%);
+  }
+  
+  .yellow {
+    background: yellow;
+    filter: brightness(60%);
+  }
+  
+  .mouseaction {
+    filter: brightness(80%);
+  }
+  
+  .active {
+    filter: brightness(100%);
+  }
+  
+  .dashboard {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgb(194, 194, 194);
+    width: 15%;
+    height: 30vh;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+  }
+  
+  button {
+    padding: 9px 15px;
+    background: rgb(253, 52, 236);
+    color: white;
+    font-weight: bold;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: rgb(170, 32, 158);
+  }
+  
+  .dashboard p {
+    font-size: 2rem;
+    font-weight: bold;
+  }
