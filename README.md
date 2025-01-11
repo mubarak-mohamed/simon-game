@@ -37,6 +37,7 @@ To run the Simon Game on your local machine, follow these steps:
 - **script.js** - JavaScript code that handles the game logic, including generating the color sequence, user input, and game-over conditions.
 
 ## How to Play
+<img title="Simon Game" alt="Simon Game" src="src/images/Screenshot.png">
 
 1. The game will display a sequence of colors (Red, Blue, Green, Yellow).
 2. After each round, the user must repeat the sequence by clicking the corresponding color buttons in the correct order.
@@ -63,7 +64,7 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE - see The [LICENSE
 - Clone the repository and run `index.html` to start the game.
 - The main files are:
 - `index.html` (HTML structure)
-- `src/css/style.css` (CSS for the game's look)
+- `src/css/styles.css` (CSS for the game's look)
 - `src/js/script.js` (JavaScript for game functionality)
 
 Feel free to modify the game as needed! Let me know if you need help with code snippets for specific parts of the Simon Game!
